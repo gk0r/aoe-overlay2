@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'FuturaPTHeavyOblique';
+  src: url('./fonts/FuturaPTHeavyOblique.woff2') format('woff2'); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FuturaPTHeavy';
+  src: url('./fonts/FuturaPTHeavy.woff2') format('woff2'); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+.graphic {
+  font-size: 2rem;
+}
+
+.OWD {
+  font-family: 'FuturaPTHeavy', Arial, sans-serif; /* Fix this */
+  color: white;
+}
+
+.VAL {
+  font-family: 'FuturaPTHeavyOblique', Arial, sans-serif;
+  color: #d13d4c;
+}
